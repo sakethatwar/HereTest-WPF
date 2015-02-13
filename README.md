@@ -1,4 +1,4 @@
-HereTest-WPF
+Test-WPF
 ============
 
 Write a simple C# WPF application that allows the user to specify a webpage by URL. 
